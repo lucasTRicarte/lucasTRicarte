@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lucasTRicarte
-- 👀 I’m interested in artificial inteligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine learning and ia's project's
-- 📫 How to reach me? Trough Linkedin!
+Olá, sou o Lucas Tavares! 👋
+- 👀 Sou um entusiasta em inteligência Artificial
+- 🌱 Atualmente aprendizado em Machine Learning e Flutter
+- 💞️ Quero colaborar com projetos de Machine learning e Mobile
+- 📫 Como me contatar? Através do Linkedin! -> 
 
 <!---
 lucasTRicarte/lucasTRicarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
