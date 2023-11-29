@@ -1,4 +1,4 @@
-Olá, sou o Lucas Tavares! 👋
+Olá, sou o Lucas Ricarte! 👋
 - 👀 Sou um entusiasta em inteligência Artificial
 - 🌱 Atualmente aprendizado em Machine Learning e Flutter
 - 💞️ Quero colaborar com projetos de Machine learning e Mobile
