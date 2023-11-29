@@ -2,7 +2,7 @@ Olá, sou o Lucas Ricarte! 👋
 - 👀 Sou um entusiasta em inteligência Artificial
 - 🌱 Atualmente aprendizado em Machine Learning e Flutter
 - 💞️ Quero colaborar com projetos de Machine learning e Mobile
-- 📫 Como me contatar? Através do Linkedin! -> 
+- 📫 Como me contatar? Através do Linkedin! -> https://www.linkedin.com/in/lucastricarte/
 
 <!---
 lucasTRicarte/lucasTRicarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
